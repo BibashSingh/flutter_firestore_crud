@@ -1,16 +1,1 @@
-# learning
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter app is a simple example for beginners to learn how to use Firebase Firestore. It includes four buttons that let you create, read, update, and delete data from the Firestore database. The app stores brand information like name and price in a specific Firestore path. When you press each button, it performs the related action in the database. It also logs the data to the console using Dart's developer tools. This project helps you understand how Firebase works with Flutter in a very basic and easy way.
